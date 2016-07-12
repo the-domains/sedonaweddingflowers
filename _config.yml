@@ -1,9 +1,20 @@
-layout_spectrum: 0.7424812
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8865915
 color:
-  saturation: 0.9961564
+  saturation: 1
   brandStrength: 0.4327056
-  lightness: 0.8997494
+  lightness: 0.8289474
   brandColors:
     - '#FFFFFF'
     - '#302C29'
@@ -11,4 +22,5 @@ color:
     - '#63605B'
     - '#BAB5AF'
   rhythmicContrast: 0.2612782
+layout_spectrum: 0.7424812
 name: Sedonaweddingflowers
