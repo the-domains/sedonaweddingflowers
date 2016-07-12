@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sedonaweddingflowers]]></title>
+        <description><![CDATA[Sedonaweddingflowers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 04:57:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wedding flowers]]></title>
+            <description><![CDATA[<article><h1>Wedding flowers</h1><p>This is my first post on the grid. Oh the pressure. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89273b6e-ea78-4b71-b3b3-9eb84b67f2ee.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/89273b6e-ea78-4b71-b3b3-9eb84b67f2ee.jpg</link>
+            <guid isPermaLink="false">90b35566-b249-4d00-bdfa-4af2c471d707</guid>
+            <pubDate>Tue, 12 Jul 2016 04:56:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
