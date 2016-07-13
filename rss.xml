@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sedonaweddingflowers]]></title>
         <description><![CDATA[Sedonaweddingflowers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sedonaweddingflowers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 04:57:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 05:24:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sedonaweddingflowers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bouquet wishes]]></title>
+            <description><![CDATA[<article><h1>Bouquet wishes</h1><p>OK, ok.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a8d6ae635103e37c38f1776bcd72a262/croprotate.jpg?cropheight=1508&cropwidth=1453&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb1825747-63d2-4bea-bca3-03e2708d0cac.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1825747-63d2-4bea-bca3-03e2708d0cac.jpg</link>
+            <guid isPermaLink="false">584e5929-8dc2-4d17-ac57-48aebb5b87c6</guid>
+            <pubDate>Wed, 13 Jul 2016 05:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wedding flowers]]></title>
             <description><![CDATA[<article><h1>Wedding flowers</h1><p>This is my first post on the grid. Oh the pressure. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89273b6e-ea78-4b71-b3b3-9eb84b67f2ee.jpg"></article>]]></description>
